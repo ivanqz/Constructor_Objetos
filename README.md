@@ -1,2 +1,2 @@
-# Plantilla_Front_2020
-Plantilla para proyectos de FrontEnd = HMLT5 + CSS3 + SASS + JAVASCRIPT
+# Practica 8. Construir objetos
+Construir objetos automaticamente. Autorizar la contruccion de 10 vehiculos, sin tener que escribir esos 10 new object
