@@ -5,7 +5,7 @@
  
 //CONSTRUCTORES
 
-function coches(marca, modelo, color, plazas ){
+function coches(marca, modelo, color, anyo ){
     this.marca=marca;
     this.modelo=modelo;
     this.color=color;
